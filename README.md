@@ -1,0 +1,138 @@
+# Create: Gears and Blocks
+## Build your own mechanical, steam-powered world!
+
+Immerse yourself in a world where steam, gears, ingenuity, and creativity meet to create a unique experience of building, exploring, and inventing. Welcome to the "Create: Gears and Blocks" modpack, a universe completely focused on the Create mod, where you can create various machines in the Steampunk aesthetic!
+
+This project is still in the development phase! Any issues, bugs, or missing content will still be improved!
+
+# Credits & List of mods*
+
+*If any credits are incorrect or missing authors, please let me know and I will correct it as soon as possible!
+
+- [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) by plantspookable
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) by Create Team
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition) by MRH0
+- [Create Jetpack](https://www.curseforge.com/minecraft/mc-mods/create-jetpack) by possible_triangle
+- [Create Mechanical Extruder](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder) by oierbravo_mc
+- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) by possible_triangle
+- [Create Stuff & Additions](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions) by Furti_Two
+- [Create: Bells & Whistles](https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles) by syslev
+- [Create: Better Villager](https://www.curseforge.com/minecraft/mc-mods/create-better-villager) by Reggarf
+- [Create: Chimneys](https://www.curseforge.com/minecraft/mc-mods/create-chimneys) by FuriusMaximus
+- [Create: Food](https://www.curseforge.com/minecraft/mc-mods/create-food) by average_anime
+- [Create: Power Loader](https://www.curseforge.com/minecraft/mc-mods/create-power-loader) by Lysine
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks) by xFactHD
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) by MehVahdJukaar
+- [AddonsLib](https://www.curseforge.com/minecraft/mc-mods/addonslib) by Samlegamer_
+- [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) by Baisylia
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) by sbom_xela
+- [Almanac Lib](https://www.curseforge.com/minecraft/mc-mods/almanac-lib) by frikinjay
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) by squeek502
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) by shedaniel
+- [Ash API](https://www.curseforge.com/minecraft/mc-mods/ash-api) by Trikzon
+- [Athena](https://www.curseforge.com/minecraft/mc-mods/athena) by CodexAdrian
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) by DarkhaxDev
+- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) by Vazkii
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) by BlayTheNinth
+- [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) by someaddon
+- [BjornLib](https://www.curseforge.com/minecraft/mc-mods/bjornlib) by FuriusMaximus
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) by terrariumearth
+- [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders) by SuperMartijn642
+- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) by sbom_xela
+- [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by shedaniel
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) by TheIllusiveC4
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand) by ThetaDev
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) by Jaredlll08
+- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) by henkelmax
+- [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) by BlayTheNinth
+- [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things) by To0pa
+- [Create Chunkloading](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading) by eembeddedt
+- [Create Compact Exp](https://www.curseforge.com/minecraft/mc-mods/create-compact-exp) by nocubeyt
+- [Create Confectionery](https://www.curseforge.com/minecraft/mc-mods/create-confectionery) by Furti_Two
+- [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco) by talrey
+- [Create Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator) by MrJulsen
+- [Create Recycle Everything](https://www.curseforge.com/minecraft/mc-mods/create-recycle-everything) by nocubeyt
+- [Create: Buffers & Beams Overhauled](https://www.curseforge.com/minecraft/mc-mods/create-buffers-and-beams-overhauled) by Railraider
+- [Create: Connected](https://www.curseforge.com/minecraft/mc-mods/create-connected) by Lysine
+- [Create: Copies & Cats](https://www.curseforge.com/minecraft/mc-mods/create-copies-cats) by Redcat
+- [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats) by Lysine
+- [Create: Curios Jetpack & Backtank](https://www.curseforge.com/minecraft/mc-mods/create-curios-jetpack) by robinfrt
+- [Create: Dreams n' Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires) by Luna
+- [Create: Dynamic Village](https://www.curseforge.com/minecraft/mc-mods/dynamic-village) by syslev
+- [Create: Fishing Bobber Detector](https://www.curseforge.com/minecraft/mc-mods/fishing-bobber-detector) by GLaD0S
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) by IThundxr
+- [Create: Steam Powered](https://www.curseforge.com/minecraft/mc-mods/steam-powered-create) by yuesha_yc
+- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) by someaddon
+- [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) by TheIllusiveC4
+- [Dark Mode Everywhere](https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere) by Buuz135
+- [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) by brnbrd
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) by FiniteReality
+- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr7zw
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) by Cahosyr
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) by vectorwing
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) by malte0811
+- [Freecam](https://www.curseforge.com/minecraft/mc-mods/free-cam) by hashalite
+- [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) by FTB
+- [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) by FTB
+- [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) by FTB
+- [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage) by Buuz135
+- [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) by SuperMartijn642
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers) by almightytallestred
+- [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) by RaphiMC
+- [Immersive Cooking](https://www.curseforge.com/minecraft/mc-mods/immersive-cooking) by CrimsonTwilight
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) by BluSunrize
+- [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) by Conczin
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters) by LatvianModder
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) by Snownee
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) by Snownee
+- [JamLib](https://www.curseforge.com/minecraft/mc-mods/jamlib) by jamalam360
+- [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) by techbrew
+- [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration) by frankV
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) by mezz
+- [Just Enough Professions](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) by Mrbysco
+- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by way2muchnoise
+- [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom) by Keksuccino
+- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) by Keksuccino
+- [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) for Forge by thedarkcolour
+- [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) by frikinjay
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) by Noobanidus
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) by sketch_macaw
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) by sketch_macaw
+- [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) by sketch_macaw
+- [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps) by sketch_macaw
+- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) by sketch_macaw
+- [Macaw's Quark](https://www.curseforge.com/minecraft/mc-mods/macaws-quark) by Samlegamer_
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) by sketch_macaw
+- [Macaw's Stairs](https://www.curseforge.com/minecraft/mc-mods/macaws-stairs) by sketch_macaw
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) by sketch_macaw
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) by sketch_macaw
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) by embeddedt
+- [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) by MehVahdJukaar
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) by YaLTeR
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) by Chaosyr
+- [Neruina - Triicking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina) by bawnorton
+- [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) by scouter567
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) by Asek3
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) by TheIllusiveC4
+- [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) by Fuzs
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) by Vazkii
+- [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) by ThatGravyBoat
+- [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) by jamalam360
+- [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) by Jaredlll08
+- [Server Performance - Smooth Chunk](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) by someaddon
+- [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded) by AbdElAziz333
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) by P3pp3rF1y
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) by P3pp3rF1y
+- [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) by henkelmax
+- [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) by SuperMartijn642
+- [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) by SuperMartijn642
+- [TerraBlender (Forge)](https://www.curseforge.com/minecraft/mc-mods/terrablender) by TheAdubbz
+- [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) by Buuz135
+- [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster) by xalcon
+- [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent) by Trikzon
+- [Underground Villages, Stoneholm](https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm) by Reggarf
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) by Fuzs
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) by BlayTheNinth
+- [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) by Vazkii
+
+
